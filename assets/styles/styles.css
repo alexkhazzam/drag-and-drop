@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-left: 170px;
+}
+
+.finished {
+    margin-left: 150px;
+}
+
+.list-of-completed-chores {
+    height: 100px;
+}
+
+.list-of-chores,
+.finished-chores {
+    border: 2px solid purple;
+    width: 50%;
+    max-height: 150px;
+    text-align: center;
+    overflow: scroll;
+}
+
+.list-of-chores {
+    margin-bottom: 45px;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin: 5px;
+    border: 2px solid #ff314d;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.content {
+    margin-left: 425px;
+}
+
+.droppable {
+    background-color: #ffe0ec;
+}
