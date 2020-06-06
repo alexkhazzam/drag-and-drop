@@ -8,10 +8,3 @@
  * listen to drop event
  * can listen to "Dragend" event when element is dropped in invalid area
  */
-
-let mary = 12;
-let joe = 5;
-
-let blob = [1, 2, 3, 4, 5];
-
-blob.reduce((num) => u);
